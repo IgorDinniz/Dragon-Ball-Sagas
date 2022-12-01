@@ -1,0 +1,42 @@
+
+
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.contA {
+    width: 50%;
+    height: 50%;
+   
+}
+
+.colorbarc {
+    background-color: rgb(30, 64, 236);
+}
+#btn btn-outline-success {
+    color: blue;
+}
+#d-flex {
+    color: blue;
+}
+h5 {
+    font-family: roboto;
+}
+web {
+    color: blue;
+}
+.container {
+    background-color: rgb(30, 64, 236);
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-inline-end: auto;
+}
+.textL {
+    margin-left: 5rem;
+    margin-right: 5rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
