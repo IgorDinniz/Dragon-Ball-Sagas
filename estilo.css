@@ -5,7 +5,7 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: rgb(255, 188, 63);
+    background-color: rgb(255, 196, 87);
 }
 p{
     text-indent: 5rem;
